@@ -1,7 +1,7 @@
 //import icons from './../img/icons.svg' // Parcel 1
 import icons from 'url:./../../img/icons.svg'; // Parcel 2
 
-import View from './View.js';
+import View from './view.js';
 
 class PreviewView extends View {
   _parentElement = '';
